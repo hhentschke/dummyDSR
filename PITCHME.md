@@ -1,6 +1,8 @@
-# Aqua
+# No more Spaghetti Code!
 
-### A GitPitch Presentation Template
+![spaghetti](https://de.rc-cdn.community.thermomix.com/recipeimage/b5fs1bzs-86875-869120-cfcd2-it7zlyq9/6fab84b8-1306-4985-81f5-e7a113c298bd/main/spaghetti-kochen-im-tm-31.jpg)
+
+### Tomato sauce
 
 ---
 
