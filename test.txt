@@ -3,4 +3,8 @@ hallo
 hey there, how are you doing today?
 
 
+<<<<<<< HEAD
 and now we added another line
+=======
+and now we added another line
+>>>>>>> 3f68e7e9c158dc399a74930983dc56fdd2d9fc72
